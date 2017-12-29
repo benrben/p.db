@@ -2,7 +2,7 @@ import java.sql.Connection;
 import java.sql.DriverManager;
 import java.sql.SQLException;
 import java.sql.Statement;
-
+//main
 public class Create {
               // Database credentials
               static final String driver = "com.mysql.jdbc.Driver";
